@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Balancing.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Balancing.SchDoc|FileName=Connectors.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Balancing.SchDoc|FileName=Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Balancing.SchDoc|FileName=MonitorSchDoc.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Balancing.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Balancing.SchDoc|FileName=PowerSupply.SchDoc|SheetNumber=3
